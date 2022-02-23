@@ -6,7 +6,7 @@
 - [qb-target](https://github.com/BerkieBb/qb-target) 
 
 ## Preview:
-[Preview - Youtube](https://www.youtube.com/watch?v=du1YJ7e7D8o)
+[Preview - Youtube](https://youtu.be/du1YJ7e7D8o)
 
 ## Features(All in one):
 - Many classes of driver's license
