@@ -1,4 +1,4 @@
-# MojiaGarages
+# Driver School
 🅿 Best driving school for qb-core framework 🅿
 
 ## Dependencies:
