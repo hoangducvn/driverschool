@@ -183,6 +183,17 @@ $(document).on("click", ".identity-page-block", function(e){
     }
 });
 ```
+#### qb-hud:
+
+- Add to qb-hud\client.lua:
+
+```
+local function checkseatbelt()
+	return seatbeltOn
+end
+
+exports('checkseatbelt', checkseatbelt)
+```
 
 ## My other scripts:
 - [MojiaGarages](https://github.com/hoangducdt/MojiaGarages) -Best advanced garages for QB-Core Framework
